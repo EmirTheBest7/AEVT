@@ -32,3 +32,12 @@ To get started with AEVT, follow these steps:
 ## Contributing
 
 Contributions to the AEVT ecosystem are welcome! Feel free to submit pull requests or join our community discussions.
+
+
+<h3 align="left">Join our communities:</h3>
+<p align="left">
+<a href="https://instagram.com/aev.platforms" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aev.platforms" height="30" width="40" /></a>
+<a href="https://discord.gg/dVueavmz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="dVueavmz" height="30" width="40" /></a>
+</p>
+
+**[ aliev.io ]**
